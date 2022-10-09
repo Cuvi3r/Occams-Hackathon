@@ -11,4 +11,4 @@ The processed data is in the $\verb!data!$ directory.
 The Jupyter notebooks must be executed in the following order
 1. $\verb!model.ipynb!$
 2. $\verb!Data_exploration.ipynb!$
-3. $\verb!Hackathon_BA.ipynb!$
+3. $\verb!Basket_analysis.ipynb!$
